@@ -7,7 +7,6 @@
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The **UTPTrackerApp** is a web application designed for students of Universiti Teknologi PETRONAS (UTP) to manage and visualize their academic and extracurricular achievements. This app allows users to track events they have joined, organized, or volunteered for, club involvements, certifications, and exam results, all in one place.
